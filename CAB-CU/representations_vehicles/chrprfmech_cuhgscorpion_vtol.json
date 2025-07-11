@@ -1,0 +1,88 @@
+{
+	"Id": "chrprfmech_cuhgscorpion_vtol",
+	"PrefabBase": "cuhgscorpion",
+	"SourcePrefabIdentifier": "chrPrfMech_battlemasterBase-001",
+	"SourcePrefabBase": "battlemaster",
+	"ShaderSource": "chrPrfWeap_atlas_centertorso_laser_eh1",
+	"BlipSource": "chrPrfVhcl_striker",
+	"ApplyType": "MoveBone",
+	"SupressAllMeshes": true,
+	"persistentAudioStart": "",
+	"persistentAudioStop": "",
+	"Animators": [ "hgscorpion_body_root" ],
+	"TwistAnimators": [ "hgscorpion_body_root" ],
+	"OnDestroy": {
+		"SuppressCombinedMesh": true,
+		"SuppressWeaponRepresentations": true,
+		"CollapseAllDestructables": true
+	},
+	"Destructibles": {
+		"Turret": {
+			"Name": "hgscorpion_destructable",
+			"wholeObj": "hgscorpion_whole",
+			"destroyedObj": "hgscorpion_destroyed"
+		}
+	},
+	"CustomMouseReceiver": [ "normal_h" ],
+	"Attaches": {
+		"Turret": "hgscorpion_attach_body",
+		"Left": "hgscorpion_attach_left",
+		"Right": "hgscorpion_attach_right",
+		"Front": "hgscorpion_attach_front",
+		"Rear": "hgscorpion_attach_rear"
+	},
+	"vfxTransforms": {
+		"Turret": "vfxTurretTransform",
+		"Front": "vfxFrontTransform",
+		"Rear": "vfxRearTransform",
+		"Left": "vfxLeftTransform",
+		"Right": "vfxRightTransform"
+	},
+	"HeadLights": [
+		"light1", "light2"
+	],
+	"WeaponAttachPoints": [
+		{
+			"Name": "FrontCenterAttach",
+			"visuals": "hgscorpion_whole",
+			"attach": "hgscorpion_attach_weapon_centerline",
+			"type": "Turret",
+			"hideIfEmpty": false,
+			"Animators": { }
+		},
+		{
+			"Name": "LeftFrontAttach",
+			"visuals": "hgscorpion_whole",
+			"attach": "hgscorpion_attach_weapon_left_wing_front",
+			"type": "Turret",
+			"hideIfEmpty": false,
+			"Animators": { }
+		},
+		{
+			"Name": "LeftWingAttach",
+			"visuals": "hgscorpion_whole",
+			"attach": "hgscorpion_attach_weapon_left_wing_side",
+			"type": "Turret",
+			"hideIfEmpty": false,
+			"Animators": { }
+		},		
+		{
+			"Name": "RightFrontAttach",
+			"visuals": "hgscorpion_whole",
+			"attach": "hgscorpion_attach_weapon_right_wing_front",
+			"type": "Turret",
+			"hideIfEmpty": false,
+			"Animators": { }
+		},
+		{
+			"Name": "RightWingAttach",
+			"visuals": "hgscorpion_whole",
+			"attach": "hgscorpion_attach_weapon_right_wing_side",
+			"type": "Turret",
+			"hideIfEmpty": false,
+			"Animators": { }
+		}		
+	],
+	"Particles":[
+	]
+}

@@ -1746,7 +1746,34 @@
 		{"Type":"Prefab","Path":"assets/character/mechs/prefabs/components/cuceleritylegsrear/chrPrfComp_cuceleritylegsrear_centertorso_jumpjet.prefab","AssetBundleName":"chrprfmech_cuceleritylegsrearbase-001"},
 		{"Type":"Prefab","Path":"assets/character/mechs/prefabs/components/cuceleritylegsrear/chrPrfComp_cuceleritylegsrear_leftshoulder_headlight.prefab","AssetBundleName":"chrprfmech_cuceleritylegsrearbase-001"},
 		{"Type":"Prefab","Path":"assets/character/mechs/prefabs/components/cuceleritylegsrear/chrPrfComp_cuceleritylegsrear_rightshoulder_headlight.prefab","AssetBundleName":"chrprfmech_cuceleritylegsrearbase-001"},
-		{"Type":"Prefab","Path":"assets/character/mechs/prefabs/components/cuceleritylegsrear/chrPrfComp_cuceleritylegsrear_simgame.prefab","AssetBundleName":"chrprfmech_cuceleritylegsrearbase-001"}
+		{"Type":"Prefab","Path":"assets/character/mechs/prefabs/components/cuceleritylegsrear/chrPrfComp_cuceleritylegsrear_simgame.prefab","AssetBundleName":"chrprfmech_cuceleritylegsrearbase-001"},
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfmech_cuhgscorpion_vtol.prefab", "AssetBundleName": "chrprfmech_cuhgscorpion-vtol" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/hgscorpion/chrprfweap_cuhgscorpion_centerline_ac5.prefab", "AssetBundleName": "chrprfmech_cuhgscorpion-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/hgscorpion/chrprfweap_cuhgscorpion_centerline_rac5.prefab", "AssetBundleName": "chrprfmech_cuhgscorpion-vtol" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/hgscorpion/chrprfweap_cuhgscorpion_wing_left_front_tbolt20.prefab", "AssetBundleName": "chrprfmech_cuhgscorpion-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/hgscorpion/chrprfweap_cuhgscorpion_wing_left_front_ac5.prefab", "AssetBundleName": "chrprfmech_cuhgscorpion-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/hgscorpion/chrprfweap_cuhgscorpion_wing_left_front_rac5.prefab", "AssetBundleName": "chrprfmech_cuhgscorpion-vtol" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/hgscorpion/chrprfweap_cuhgscorpion_wing_left_side_mrm30.prefab", "AssetBundleName": "chrprfmech_cuhgscorpion-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/hgscorpion/chrprfweap_cuhgscorpion_wing_left_side_ac20.prefab", "AssetBundleName": "chrprfmech_cuhgscorpion-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/hgscorpion/chrprfweap_cuhgscorpion_wing_left_side_rac2.prefab", "AssetBundleName": "chrprfmech_cuhgscorpion-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/hgscorpion/chrprfweap_cuhgscorpion_wing_left_side_ac5.prefab", "AssetBundleName": "chrprfmech_cuhgscorpion-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/hgscorpion/chrprfweap_cuhgscorpion_wing_left_side_rac5.prefab", "AssetBundleName": "chrprfmech_cuhgscorpion-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/hgscorpion/chrprfweap_cuhgscorpion_wing_left_side_tbolt20.prefab", "AssetBundleName": "chrprfmech_cuhgscorpion-vtol" },
+
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/hgscorpion/chrprfweap_cuhgscorpion_wing_right_front_tbolt20.prefab", "AssetBundleName": "chrprfmech_cuhgscorpion-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/hgscorpion/chrprfweap_cuhgscorpion_wing_right_front_ac5.prefab", "AssetBundleName": "chrprfmech_cuhgscorpion-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/hgscorpion/chrprfweap_cuhgscorpion_wing_right_front_rac5.prefab", "AssetBundleName": "chrprfmech_cuhgscorpion-vtol" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/hgscorpion/chrprfweap_cuhgscorpion_wing_right_side_mrm30.prefab", "AssetBundleName": "chrprfmech_cuhgscorpion-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/hgscorpion/chrprfweap_cuhgscorpion_wing_right_side_ac20.prefab", "AssetBundleName": "chrprfmech_cuhgscorpion-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/hgscorpion/chrprfweap_cuhgscorpion_wing_right_side_rac2.prefab", "AssetBundleName": "chrprfmech_cuhgscorpion-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/hgscorpion/chrprfweap_cuhgscorpion_wing_right_side_ac5.prefab", "AssetBundleName": "chrprfmech_cuhgscorpion-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/hgscorpion/chrprfweap_cuhgscorpion_wing_right_side_rac5.prefab", "AssetBundleName": "chrprfmech_cuhgscorpion-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/hgscorpion/chrprfweap_cuhgscorpion_wing_right_side_tbolt20.prefab", "AssetBundleName": "chrprfmech_cuhgscorpion-vtol" }
 
   ]
 }

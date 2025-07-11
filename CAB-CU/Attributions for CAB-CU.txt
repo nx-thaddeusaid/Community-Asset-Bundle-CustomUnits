@@ -47,6 +47,7 @@ Ambassador
 Rattler and Rattler SL
 Turhan APC
 Celerity
+HG Scorpion VTOL
 
 FrostRaptor and Tex of the Black Pants Legion
 Content:

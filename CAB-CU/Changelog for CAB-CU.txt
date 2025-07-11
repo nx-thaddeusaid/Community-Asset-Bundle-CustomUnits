@@ -2,6 +2,10 @@ Changelog for CAB-CU
 
 -----------------------------------------------------
 
+3.6
+
+Added the HG Scorpion VTOL 
+
 3.5
 
 Added the Celerity Ultralight Quad

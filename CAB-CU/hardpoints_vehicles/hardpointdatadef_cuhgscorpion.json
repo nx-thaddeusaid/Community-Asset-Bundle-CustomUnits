@@ -1,0 +1,113 @@
+{
+	"ID": "hardpointdatadef_cuhgscorpion",
+	"CustomHardpoints": {
+		"IsVehicleStyleLocations": true,
+		"prefabs": [
+			{ "prefab": "chrprfweap_cuhgscorpion_centerline_ac5", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "FrontCenterAttach" },
+			{ "prefab": "chrprfweap_cuhgscorpion_centerline_rac5", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "FrontCenterAttach" },
+		
+			{ "prefab": "chrprfweap_cuhgscorpion_wing_left_front_ac5", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "LeftFrontAttach" },
+			{ "prefab": "chrprfweap_cuhgscorpion_wing_left_front_rac5", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "LeftFrontAttach" },				
+			{ "prefab": "chrprfweap_cuhgscorpion_wing_left_front_tbolt20", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2", "fire3", "fire4" ],
+				"attachType": "Turret", "attachOverride": "LeftFrontAttach" },
+				
+			{ "prefab": "chrprfweap_cuhgscorpion_wing_left_side_rac2", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "LeftWingAttach" },
+			{ "prefab": "chrprfweap_cuhgscorpion_wing_left_side_ac5", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "LeftWingAttach" },
+			{ "prefab": "chrprfweap_cuhgscorpion_wing_left_side_rac5", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "LeftWingAttach" },
+			{ "prefab": "chrprfweap_cuhgscorpion_wing_left_side_ac20", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "LeftWingAttach" },
+			{ "prefab": "chrprfweap_cuhgscorpion_wing_left_side_tbolt20", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2", "fire3", "fire4" ],
+				"attachType": "Turret", "attachOverride": "LeftWingAttach" },				
+			{ "prefab": "chrprfweap_cuhgscorpion_wing_left_side_mrm30", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2", "fire3", "fire4", "fire5" ],
+				"attachType": "Turret", "attachOverride": "LeftWingAttach" },
+				
+			{ "prefab": "chrprfweap_cuhgscorpion_wing_right_front_ac5", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "RightFrontAttach" },
+			{ "prefab": "chrprfweap_cuhgscorpion_wing_right_front_rac5", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "RightFrontAttach" },				
+			{ "prefab": "chrprfweap_cuhgscorpion_wing_right_front_tbolt20", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2", "fire3", "fire4" ],
+				"attachType": "Turret", "attachOverride": "RightFrontAttach" },
+				
+			{ "prefab": "chrprfweap_cuhgscorpion_wing_right_side_rac2", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "RightWingAttach" },
+			{ "prefab": "chrprfweap_cuhgscorpion_wing_right_side_ac5", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "RightWingAttach" },
+			{ "prefab": "chrprfweap_cuhgscorpion_wing_right_side_rac5", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "RightWingAttach" },
+			{ "prefab": "chrprfweap_cuhgscorpion_wing_right_side_ac20", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "RightWingAttach" },
+			{ "prefab": "chrprfweap_cuhgscorpion_wing_right_side_tbolt20", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2", "fire3", "fire4" ],
+				"attachType": "Turret", "attachOverride": "RightWingAttach" },				
+			{ "prefab": "chrprfweap_cuhgscorpion_wing_right_side_mrm30", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2", "fire3", "fire4", "fire5" ],
+				"attachType": "Turret", "attachOverride": "RightWingAttach" }				
+
+		],
+		"aliases": {
+			"chrPrfWeap_cuhgscorpion_front_ac5_bh1": { "location": "front", "prefab": "chrprfweap_cuhgscorpion_centerline_ac5" },
+			"chrPrfWeap_cuhgscorpion_front_rac5_bh1": { "location": "front", "prefab": "chrprfweap_cuhgscorpion_centerline_rac5" },
+			
+			"chrPrfWeap_cuhgscorpion_left_ac5_bh2": { "location": "left", "prefab": "chrprfweap_cuhgscorpion_wing_left_front_ac5" },
+			"chrPrfWeap_cuhgscorpion_left_rac5_bh2": { "location": "left", "prefab": "chrprfweap_cuhgscorpion_wing_left_front_rac5" },
+			"chrPrfWeap_cuhgscorpion_left_arrow_mh2": { "location": "left", "prefab": "chrprfweap_cuhgscorpion_wing_left_front_tbolt20" },
+			
+			"chrPrfWeap_cuhgscorpion_left_rac2_bh1": { "location": "left", "prefab": "chrprfweap_cuhgscorpion_wing_left_side_rac2" },			
+			"chrPrfWeap_cuhgscorpion_left_ac5_bh1": { "location": "left", "prefab": "chrprfweap_cuhgscorpion_wing_left_side_ac5" },
+			"chrPrfWeap_cuhgscorpion_left_rac5_bh1": { "location": "left", "prefab": "chrprfweap_cuhgscorpion_wing_left_side_rac5" },
+			"chrPrfWeap_cuhgscorpion_left_ac20_bh1": { "location": "left", "prefab": "chrprfweap_cuhgscorpion_wing_left_side_ac20" },
+			"chrPrfWeap_cuhgscorpion_left_arrow_mh1": { "location": "left", "prefab": "chrprfweap_cuhgscorpion_wing_left_side_tbolt20" },
+			"chrPrfWeap_cuhgscorpion_left_lrm20_mh1": { "location": "left", "prefab": "chrprfweap_cuhgscorpion_wing_left_side_mrm30" },
+			
+			"chrPrfWeap_cuhgscorpion_right_ac5_bh2": { "location": "right", "prefab": "chrprfweap_cuhgscorpion_wing_right_front_ac5" },
+			"chrPrfWeap_cuhgscorpion_right_rac5_bh2": { "location": "right", "prefab": "chrprfweap_cuhgscorpion_wing_right_front_rac5" },
+			"chrPrfWeap_cuhgscorpion_right_arrow_mh2": { "location": "right", "prefab": "chrprfweap_cuhgscorpion_wing_right_front_tbolt20" },
+			
+			"chrPrfWeap_cuhgscorpion_right_rac2_bh1": { "location": "right", "prefab": "chrprfweap_cuhgscorpion_wing_right_side_rac2" },			
+			"chrPrfWeap_cuhgscorpion_right_ac5_bh1": { "location": "right", "prefab": "chrprfweap_cuhgscorpion_wing_right_side_ac5" },
+			"chrPrfWeap_cuhgscorpion_right_rac5_bh1": { "location": "right", "prefab": "chrprfweap_cuhgscorpion_wing_right_side_rac5" },
+			"chrPrfWeap_cuhgscorpion_right_ac20_bh1": { "location": "right", "prefab": "chrprfweap_cuhgscorpion_wing_right_side_ac20" },
+			"chrPrfWeap_cuhgscorpion_right_arrow_mh1": { "location": "right", "prefab": "chrprfweap_cuhgscorpion_wing_right_side_tbolt20" },
+			"chrPrfWeap_cuhgscorpion_right_lrm20_mh1": { "location": "right", "prefab": "chrprfweap_cuhgscorpion_wing_right_side_mrm30" }
+		}
+	},
+	"HardpointData": [
+		{
+			"location": "front",
+			"weapons": [
+				[]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "right",
+			"weapons": [
+				[]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "left",
+			"weapons": [
+				[]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "turret",
+			"weapons": [
+				[]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		}
+	]
+}
