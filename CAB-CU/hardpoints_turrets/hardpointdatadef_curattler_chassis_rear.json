@@ -1,5 +1,5 @@
 {
-  "ID": "hardpointdatadef_curattler_chassis_left",
+  "ID": "hardpointdatadef_curattler_chassis_rear",
   "CustomHardpoints": {
     "prefabs": [ 
 	      { "prefab": "chrprfweap_rattler_rear_forward_left_turret_gauss", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
