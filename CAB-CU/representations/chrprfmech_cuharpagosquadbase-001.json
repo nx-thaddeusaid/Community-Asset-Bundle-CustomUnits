@@ -64,7 +64,6 @@
 		"RightArm": "j_FRCalf_mesh",
 		"LeftLeg": "j_RLCalf_mesh",
 		"RightLeg": "j_RRCalf_mesh",
-		"LeftArm": "j_FLCalf_mesh",
 		"LeftShoulder": "j_FLThigh_mesh",
 		"RightShoulder": "j_FRThigh_mesh"
 	},
@@ -109,19 +108,6 @@
 		],
 		"atlas_shutdownPwron" : [ 
 			{ "time" : 0, "functionName": "OnAudioEvent", "stringParameter" : "mech_engine_powerup" }
-		],
-		"atlas_deathKnockdown" : [ 
-			{ "time" : 0, "functionName": "OnAudioEvent", "stringParameter" : "mech_impact01" },
-			{ "time" : 0.074999995, "functionName": "OnAudioEvent", "stringParameter" : "foley_short" },
-			{ "time" : 0.625, "functionName": "OnAudioEvent", "stringParameter" : "foley_long" },
-			{ "time" : 1.03749995, "functionName": "OnAudioEvent", "stringParameter" : "mech_metal_squeal" },
-			{ "time" : 1.52083337, "functionName": "OnAudioEvent", "stringParameter" : "foley_medium" },
-			{ "time" : 2.32500005, "functionName": "OnAudioEvent", "stringParameter" : "whoosh_long_mix" },
-			{ "time" : 2.52499986, "functionName": "OnAudioEvent", "stringParameter" : "mech_impact03" },
-			{ "time" : 2.7208333, "functionName": "OnGroundImpact" },
-			{ "time" : 2.9083333, "functionName": "OnAudioEvent", "stringParameter" : "mech_bodyfall_medium" },
-			{ "time" : 3.20416641, "functionName": "OnAudioEvent", "stringParameter" : "mech_bodyfall_light" },
-			{ "time" : 3.60416651, "functionName": "OnDeath" }
 		],
 		"atlas_deathKnockdown2" : [ 
 			{ "time" : 0, "functionName": "OnAudioEvent", "stringParameter" : "mech_impact01" },
@@ -179,17 +165,6 @@
 			,{ "time": 1.54,"functionName": "OnAudioEvent" ,"stringParameter":"foley_long" }
 			,{ "time": 2.519,"functionName": "OnAudioEvent" ,"stringParameter":"foley_medium" }
 			,{ "time": 3.135,"functionName": "OnAudioEvent" ,"stringParameter":"foley_medium" }
-		],
-		"atlas_attackMeleePush":[
-			{ "time": 0,"functionName": "OnAudioEvent" ,"stringParameter":"foley_long" }
-			,{ "time": 0.378,"functionName": "OnAudioEvent" ,"stringParameter":"foley_medium" }
-			,{ "time": 0.588,"functionName": "OnAudioEvent" ,"stringParameter":"whoosh_long_mix" }
-			,{ "time": 0.665,"functionName": "OnMeleeImpact" }
-			,{ "time": 0.7315,"functionName": "OnAudioEvent" ,"stringParameter":"foley_medium" }
-			,{ "time": 1.3265,"functionName": "OnAudioEvent" ,"stringParameter":"move_mechanical" }
-			,{ "time": 1.722,"functionName": "OnAudioEvent" ,"stringParameter":"foley_medium" }
-			,{ "time": 2.3695,"functionName": "OnAudioEvent" ,"stringParameter":"foley_medium" }
-			,{ "time": 3.0345,"functionName": "OnAudioEvent" ,"stringParameter":"foley_medium" }
 		],
 		"atlas_attackMeleeKick":[
 			{ "time": 0,"functionName": "OnAudioEvent" ,"stringParameter":"foley_medium" }
