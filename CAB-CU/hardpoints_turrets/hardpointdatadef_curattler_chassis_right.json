@@ -1,5 +1,5 @@
 {
-  "ID": "hardpointdatadef_curattler_chassis_left",
+  "ID": "hardpointdatadef_curattler_chassis_right",
   "CustomHardpoints": {
     "prefabs": [ 
 	      { "prefab": "chrprfweap_rattler_right_lower_front_missile_lrm20", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", 
